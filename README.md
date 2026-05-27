@@ -43,6 +43,31 @@ Multi-modal data → ConvLSTM + Transformer + PINN → Ensemble prediction → I
 
 ---
 
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Heatmaps
+![Heatmaps](screenshots/heatmaps.png)
+
+### Impact Analysis
+![Impact](screenshots/impact.png)
+
+### Physics Indicators
+![Physics](screenshots/physics.png)
+
+### Explainable AI
+![XAI](screenshots/explainai.png)
+
+### Alerts
+![Alerts](screenshots/alerts.png)
+
+### Excel Data
+![Excel Data](screenshots/exceldata.png)
+
+---
+
 ## Quick Start
 
 ```bash
